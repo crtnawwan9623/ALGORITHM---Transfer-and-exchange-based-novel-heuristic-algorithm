@@ -8,7 +8,7 @@ The distributed image processing systems design and algorithm implementation are
   
 <div align=center><img width="383" alt="Screen Shot 2021-09-08 at 4 33 49 PM" src="https://user-images.githubusercontent.com/37515653/132581444-b848022a-19a9-454e-abab-d58501d20afe.png">
  
- <div align=left>System modelling:
+ <div align=left>System modelling of binary offloaidng of image processing tasks:
  
 <div align=center><img width="464" alt="Screen Shot 2021-09-08 at 4 36 12 PM" src="https://user-images.githubusercontent.com/37515653/132581732-d0da751e-d106-4c67-80a0-ec6b78b4a57d.png">
 
