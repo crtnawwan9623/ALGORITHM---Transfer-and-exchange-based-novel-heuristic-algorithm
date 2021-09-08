@@ -24,4 +24,11 @@ The distributed image processing systems design and algorithm implementation are
  
 <div align=center><img width="782" alt="Screen Shot 2021-09-08 at 4 48 27 PM" src="https://user-images.githubusercontent.com/37515653/132583384-c77900d6-9d5c-4673-b7ee-74060058c359.png">
 
+ <div align=left>Algorithm performance:
  
+<div align=center><img width="721" alt="Screen Shot 2021-09-08 at 4 56 20 PM" src="https://user-images.githubusercontent.com/37515653/132584361-7348f0e2-cd82-4acb-8744-c303ab47a662.png">
+
+  
+  
+  
+  
