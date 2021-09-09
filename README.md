@@ -12,7 +12,7 @@ The distributed image processing systems design and algorithm implementation are
  
 <div align=center><img width="464" alt="Screen Shot 2021-09-08 at 4 36 12 PM" src="https://user-images.githubusercontent.com/37515653/132581732-d0da751e-d106-4c67-80a0-ec6b78b4a57d.png">
 
-<div align=left>Optimization problem:
+<div align=left>Optimization problem (NP-HARD):
  
 <div align=center><img width="273" alt="Screen Shot 2021-09-08 at 4 40 20 PM" src="https://user-images.githubusercontent.com/37515653/132582307-159b3df6-adcb-430c-bdb2-b5e7866b0a51.png">
 
